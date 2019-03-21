@@ -113,6 +113,8 @@ Then both this newly generated image and  the color pallete is combined in one i
 
 
 
+The bot then tweets out the image with the message after each time interval, till the number of urls in the list are not exhausted.
+
 
 
 
